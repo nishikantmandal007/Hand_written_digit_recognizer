@@ -1,5 +1,7 @@
 # Digit Recognition using TensorFlow and Keras
 This repository contains a simple implementation of a neural network model for recognizing handwritten digits from the MNIST dataset using TensorFlow and Keras. The model architecture consists of a flattening layer followed by two dense layers with ReLU activation functions and a final output layer with softmax activation.
+![Digit Recognition GIF]![network-propagation](https://github.com/nishikantmandal007/Hand_written_digit_recognizer/assets/113323074/699b8c20-62af-4be9-97de-c57c5d37ec03)
+
 
 This Python script utilizes TensorFlow and Keras to create a neural network for classifying handwritten digits from the MNIST dataset. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0 to 9). The neural network is a simple feedforward model with three layers: a flattening layer, followed by two dense layers with ReLU activation, and a final dense layer with softmax activation for classification.
 
