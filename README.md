@@ -2,7 +2,7 @@
 This repository contains a simple implementation of a neural network model for recognizing handwritten digits from the MNIST dataset using TensorFlow and Keras. The model architecture consists of a flattening layer followed by two dense layers with ReLU activation functions and a final output layer with softmax activation.
 
 ![network-propagation](https://github.com/nishikantmandal007/Hand_written_digit_recognizer/assets/113323074/b7178f98-232b-4c1f-b03c-8699d191c3b2)
-            *Special thanks to [3Blue1Brown](https://www.3blue1brown.com/) for this insightful video on neural networks.*
+                                                                                                                          *Special thanks to [3Blue1Brown](https://www.3blue1brown.com/) for this insightful video on neural networks.*
 
 
 
