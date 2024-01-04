@@ -3,7 +3,7 @@ This repository contains a simple implementation of a neural network model for r
 
 ![network-propagation](https://github.com/nishikantmandal007/Hand_written_digit_recognizer/assets/113323074/b7178f98-232b-4c1f-b03c-8699d191c3b2)
                                   
-*Special thanks to [3b1b](https://www.3blue1brown.com/) for this insightful video on neural networks.*
+*Neural Network Recognizing hand-written digits*
 
 
 This Python script utilizes TensorFlow and Keras to create a neural network for classifying handwritten digits from the MNIST dataset. The MNIST dataset consists of 28x28 grayscale images of handwritten digits (0 to 9). The neural network is a simple feedforward model with three layers: a flattening layer, followed by two dense layers with ReLU activation, and a final dense layer with softmax activation for classification.
